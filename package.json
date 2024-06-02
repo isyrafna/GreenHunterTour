@@ -8,7 +8,6 @@
     "build": "webpack --config webpack.prod.js",
     "serve": "http-server dist"
     {
-}
   },
   "keywords": [],
   "author": "",
